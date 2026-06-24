@@ -1,4 +1,8 @@
-![Banner de Boas-Vindas](https://capsule-render.vercel.app/api?type=venom&color=auto&customColorList=0a0a12,ff2ed1,00f5ff,8a2bff,b4ff00&text=Olá,%20sou%20a%20Mi!&animation=twinkling&fontSize=40&v=2)
+
+
+![Banner de Boas-Vindas](https://capsule-render.vercel.app/api?type=cylinder&color=20:32213a,80:B61C80&text=Olá,%20sou%20a%20Mi!&animation=twinkling&fontSize=40&v=3&fontColor=F8F9FA)
+
+
 
 ## 🎓 Sobre Mim
 - 🚀 Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas**.
