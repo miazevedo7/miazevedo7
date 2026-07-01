@@ -10,7 +10,7 @@
 - 🌱 Atualmente aprofundando conhecimentos em lógica de programação, estruturas de dados, desenvolvimento web e desenvolvimento/teste de APIs.
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,vscode,git,github,java" />
   </a>
 </p>
 
