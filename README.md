@@ -14,11 +14,10 @@
   </a>
 </p>
 
----
 
-## 📊 Minhas Estatísticas do GitHub
+<!-- ## 📊 Minhas Estatísticas do GitHub
 
-<p align="center">
+/* <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miazevedo7&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miazevedo7&layout=compact&theme=synthwave" alt="Linguagens mais usadas" height="180em" />
-</p>
+</p> -->
