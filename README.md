@@ -6,7 +6,7 @@
 
 ## 🎓 Sobre Mim
 - 🚀 Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas**.
-- 💡 Buscando minha primeira oportunidade no mercado de tecnologia.
+- 💡 Estagiária no mercado de tecnologia.
 - 🌱 Atualmente aprofundando conhecimentos em lógica de programação, estruturas de dados, desenvolvimento web e desenvolvimento/teste de APIs.
 <p align="left">
   <a href="https://skillicons.dev">
