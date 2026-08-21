@@ -1,23 +1,70 @@
+# Hi, I'm Mi
 
+### Frontend Developer | Systems Analysis and Development Student
 
-![Banner de Boas-Vindas](https://capsule-render.vercel.app/api?type=cylinder&color=20:32213a,80:B61C80&text=Olá,%20sou%20a%20Mi!&animation=twinkling&fontSize=40&v=3&fontColor=F8F9FA)
+I build web applications focused on practical business and healthcare solutions, with a primary focus on frontend development.
 
+I work with **HTML, CSS, PHP, and SQL**, and I'm currently expanding my backend skills with **Node.js and Laravel**. I have hands-on experience contributing to real-world projects, including healthcare systems and a SaaS platform for clinical research.
 
+## About Me
 
-## 🎓 Sobre Mim
-- 🚀 Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas**.
-- 💡 Trainee no mercado de tecnologia.
-- 🌱 Atualmente aprofundando conhecimentos em desenvolvimento web.
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,vscode,git,github,mysql,php" />
-  </a>
+* Systems Analysis and Development student
+* Frontend-focused developer
+* Experience building and maintaining real-world web applications
+* Currently working on healthcare and clinical research software
+* Expanding my skills in backend and full-stack development
+* Interested in software architecture, usability, and scalable applications
+
+## Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
+### Backend & Database
 
-<!-- ## 📊 Minhas Estatísticas do GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=php,nodejs,laravel,mysql" />
+</p>
 
-/* <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miazevedo7&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miazevedo7&layout=compact&theme=synthwave" alt="Linguagens mais usadas" height="180em" />
-</p> -->
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+## Featured Projects
+
+### Healthcare Appointment System
+
+A full-stack healthcare appointment management system independently designed and developed by me.
+
+The project involves frontend development, backend development, database design, business logic, and user experience.
+
+**Status:** In development
+
+### Clinical Research SaaS
+
+A SaaS platform focused on supporting clinical research workflows and data management.
+
+**My contribution:** Frontend development and technical documentation.
+
+**Status:** In development
+
+Some project details are private due to the nature of the product.
+
+### Marketing Agency Website
+
+A professional website developed for a marketing agency, focused on responsive design, usability, and a clear digital presence.
+
+**Focus:** Frontend development and responsive web design.
+
+## Currently Learning
+
+* Node.js
+* Laravel
+* Backend development
+* Full-stack application development
+* Software architecture
