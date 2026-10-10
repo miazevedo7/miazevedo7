@@ -4,7 +4,7 @@
 
 I build responsive and user-friendly web applications, with a primary focus on frontend development.
 
-I work with **HTML, CSS, JavaScript, PHP, and SQL**, and I'm currently expanding my backend skills with **Node.js and Laravel**. I have hands-on experience contributing to real-world projects while following good practices in usability, maintainability, and documentation.
+I work with **HTML, CSS, JavaScript, PHP, and SQL**, and I'm currently expanding my backend skills with **Node.js and TypeScript**. I have hands-on experience contributing to real-world projects while following good practices in usability, maintainability, and documentation.
 
 ## About Me
 
@@ -34,28 +34,28 @@ I work with **HTML, CSS, JavaScript, PHP, and SQL**, and I'm currently expanding
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code" />
 </p>
 
-## Experience & Projects
+## Featured Projects
 
-I have contributed to web applications involving responsive interfaces, system integrations, technical documentation, and database-driven features.
+### Limão Cravo, Creative Studio
 
-Some of my work cannot be shared publicly due to confidentiality and project privacy requirements.
+Developed the website for Limão Cravo, a creative studio, presenting its portfolio, services, and contact information.
 
-### Independent Web Application
+[Visit Limão Cravo ↗](https://www.limaocravo.net/)
 
-A full-stack project created to strengthen my experience with frontend development, backend logic, database design, and user experience.
+### Infinity Nikki Brasil
 
-### SaaS Platform
+Created a personal website for the Brazilian Infinity Nikki player community, combining my interest in gaming with my web development skills.
 
-Contributed to the frontend development and technical documentation of a web-based SaaS product.
+[Visit Infinity Nikki Brasil ↗](https://infinitynikkibrasil.neocities.org/)
 
-### Business Website
+## Professional Experience
 
-Developed a professional and responsive website focused on usability, accessibility, and a clear digital presence.
+I develop and maintain web applications for the healthcare sector, contributing to interfaces, system integrations, database-driven features, and technical documentation.
+
+Project names, source code, and implementation details are private due to confidentiality requirements.
 
 ## Currently Learning
 
-- Node.js
-- Laravel
-- Backend development
-- Full-stack application development
+- TypeScript
+- Backend development with Node.js
 - Software architecture
