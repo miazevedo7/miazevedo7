@@ -1,8 +1,8 @@
 # Hi, I'm Mi
 
-### Frontend Developer | Systems Analysis and Development Student
+### Backend Developer | Systems Analysis and Development Student
 
-I build responsive and user-friendly web applications, with a primary focus on frontend development.
+I build responsive and user-friendly web applications, with a primary focus on backend development.
 
 I work with **HTML, CSS, JavaScript, PHP, and SQL**, and I'm currently expanding my backend skills with **Node.js and TypeScript**. I have hands-on experience contributing to real-world projects while following good practices in usability, maintainability, and documentation.
 
